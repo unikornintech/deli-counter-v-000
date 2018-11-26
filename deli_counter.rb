@@ -24,4 +24,5 @@ def now_serving
     puts "There is nobody waiting to be served!"
   else
     if katz_deli.first?
+      puts
 end 
