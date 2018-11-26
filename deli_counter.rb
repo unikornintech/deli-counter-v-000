@@ -27,3 +27,4 @@ def now_serving
       puts "Currently serving #{name}"
     end 
 end 
+end
